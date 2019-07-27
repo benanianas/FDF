@@ -3,7 +3,7 @@
 * FDF is a simple 3D maps viewer.
 * Currently works only on mac OS
 
-![FDF](https://lh3.googleusercontent.com/n_sGhjAXAFJmBHy6HzGG-s0IHxI48ZV91sBxU_FYFGn6hbCwtPcmJoK3aW6nIG5nmHw6Q8NLqIuxSzWEAKfOXn-RA1oZYmC5qX3f02an38laPdaPMCRD-cSNY5Qh1I6kKJL4Dh-CBZ_dem9UWZ9NFbo2l0RJ17wGShfGt4s56N_JhZ4mFz2nPY13CuBvyhgIg_Ds-eeuxj50IerY-8PVI9sxl3VQ8YU0V_ln8A4giMM9M-OFOqxl0WZSth2kN9gKmjV0OkLIXv9KPGBA54Y78kJNYUiIyMjkRT_xuNQg4XcmpLor7djA7M6VDJLAcKqSvgzF529o4f6HSfcBiS0vs2WgZS49bQHvgU0ZL0DPpD3HtCTGKdDn3xqTD9GQOzL8FgqxxBVJmtJUSmt-PZgetngjyuyKWcRB2Y9if4YbMWZWvaBIKhI124987numJiH8iPtPrXh-djNJIvXNS-PVLnND3ihlUFZ214iuQXVNlD6eDC9SoI6Xo4kIz9BEqQZRetDvgEKk1DnSCdLqehzIWwMg2_tELD_tDoQrcMVr6ViKiMxtWQ5ted4RIQu5SPa5hdfi0VyPZTGY0_pKvKdsRVLqVyk05AhF_fGQK5RasaIVwWYfyUOwleMunAUlWHNk-JGAMwZwAM_ztGWsDnp8A5OoFad-R0o=w2104-h1326-no "FDF")
+![FDF](./img.png "FDF")
 
 * In this project i used some functions from my library "libft".
 * For more informations you can find the project subject FDF.pdf .
