@@ -1,7 +1,6 @@
 # FDF Project "Wire Frame"
 
 * FDF is a simple 3D maps viewer.
-* Currently works only on mac OS
 
 ![FDF](./img.png "FDF")
 
